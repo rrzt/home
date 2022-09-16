@@ -56,7 +56,7 @@
 
 {  "key": "csp_Auete",  "name": "Auete(爬虫)", "type": 3,  "api": "csp_Auete",  "searchable": 1,  "quickSearch": 1,  "filterable": 1},
 {  "key": "csp_Cokemv",  "name": "Cokemv(爬虫)",  "type": 3,  "api": "csp_Cokemv",  "searchable": 1,  "quickSearch": 1,  "filterable": 1},
-  {"key": "csp_YydsAli1","name": "YYDS阿里(爬虫)","type": 3,"api": "csp_YydsAli1","searchable": 1,"quickSearch": 0,"filterable": 1},
+ 
 {"key": "csp_Ysgc","name": "影视工厂(爬虫)","type": 3,"api": "csp_Ysgc","searchable": 1,"quickSearch": 0,"filterable": 1},
 {"key": "csp_N0ys","name": "90影视(爬虫)","type": 3,"api": "csp_N0ys","searchable": 1,"quickSearch": 0,"filterable": 1},
 {"key": "csp_Nekk","name": "9E看看(爬虫)","type": 3,"api": "csp_Nekk","searchable": 1,"quickSearch": 0,"filterable": 1  },
@@ -70,7 +70,7 @@
 {"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/0907.jar"},
 {"key":"csp_KanSJ","name":"🗺看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://gitee.com/rrzt188/home/raw/master/jar/0907.jar"},
 {"key":"csp_AppTT","name":"🐰兔斯基","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/0907.jar"},
-{"key":"t4public","name":"📡合集(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",  "searchable": 1,"quickSearch":1,"filterable":0,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/0907.jar"},
+
 //
 
 
