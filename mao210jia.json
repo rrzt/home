@@ -9,9 +9,7 @@
 {"key":"csp_LiteApple"     ,"name":"🐞小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "csp_GitCafe"    ,"name":"🐞阿里纸条","type":3,"api":"csp_GitCafbse","searchable":1,"quickSearch":1,"filterable":1},  
 //{"key": "csp_AliPanSou"  ,"name":"🐞阿里喵搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_GitCafe"       ,"name":"🐞小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},  
-{"key":"csp_AliPanSou"     ,"name":"🐞云喵搜📵","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"push_agent"        ,"name":"🛴推送📵","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"阿里Token"},
+
 {"key": "csp_77"         ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_CZSPP"      ,"name":"🐞厂长资源","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Buka"       ,"name":"🐞真不卡","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
@@ -43,7 +41,7 @@
 //{"key":"csp_QQ","name":" 🍅腾讯视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/rrzt188/box/raw/master/sub/ext/qim.jpg;md5;3C40DBCB8082364E1C416EBC3E219E6A"},
 //{"key":"csp_IQIYI","name":"🥝爱奇艺(SP)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://gitee.com/rrzt188/box/raw/master/sub/ext/qim.jpg;md5;3C40DBCB8082364E1C416EBC3E219E6A"},
 //{"key":"csp_MGTV","name":"🍋芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/box/raw/master/sub/ext/qim.jpg;md5;3C40DBCB8082364E1C416EBC3E219E6A"},
-{"key":"csp_Alist2","name":"🐞Alist云盘(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/rrzt188/box/raw/master/sub/ext/Alist.txt","jar":"https://gitee.com/rrzt188/box/raw/master/sub/ext/Alist.jpg"},
+
 {"key":"csp_Tkys","name":"🐞天空影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/box/raw/master/sub/jar/0831.jar;md5;1D8BE264384C9171C974CADB55E50541"},
 	  //{"key": "csp_LiteApple"  ,"name":"🐞苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_BBB"        ,"name":"🐞bilibili","type": 3,"api": "csp_BBB","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -74,9 +72,13 @@
 {"key":"csp_AppTT","name":"🐰兔斯基","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/0907.jar"},
 {"key":"t4public","name":"📡合集(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",  "searchable": 1,"quickSearch":1,"filterable":0,"jar":"https://gitee.com/rrzt188/home/raw/master/jar/0907.jar"},
 //
+{"key":"csp_GitCafe"       ,"name":"🐞小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},  
+{"key":"csp_AliPanSou"     ,"name":"🐞云喵搜📵","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"push_agent"        ,"name":"🛴推送📵","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"阿里Token"},
 {"key": "csp_FindZY","name": "💡找资源(仅搜索)","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "7bb5b24ca3274ad781a6071082e9eebd","jar":"https://gitee.com/rrzt188/box/raw/master/sub/ext/aliso.jpg;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"},
 {"key": "csp_AliPS","name": "💿云盘搜(仅搜索)","type": 3,"api":" csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "7bb5b24ca3274ad781a6071082e9eebd","jar":"https://gitee.com/rrzt188/box/raw/master/sub/ext/aliso.jpg;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"},
 {"key": "csp_Yiso","name": "🔍一搜(仅搜索)","type": 3,"api": "csp_Yiso","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "7bb5b24ca3274ad781a6071082e9eebd","jar":"https://gitee.com/rrzt188/box/raw/master/sub/ext/aliso.jpg;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"},
+{"key":"csp_Alist2","name":"🐞Alist云盘(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/rrzt188/box/raw/master/sub/ext/Alist.txt","jar":"https://gitee.com/rrzt188/box/raw/master/sub/ext/Alist.jpg"},
 {"key":"push_agent","name":"🎯推送（爱优腾/阿里云盘/磁力链接）","type": 3,"api": "csp_PushAgent","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "7bb5b24ca3274ad781a6071082e9eebd","jar":"https://gitee.com/rrzt188/box/raw/master/sub/ext/aliso.jpg;md5;6EBE9E6BDCED846CCA3421CDD09D58D3"},
 {"key":"bdys","name":"💥哔嘀磁力(慎用)","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/rrzt188/box/raw/master/sub/meowxp/bdys01.json","jar": "https://gitee.com/rrzt188/box/raw/master/sub/ext/cili.jpg"},
 {"key":"csp_biubiu_哔嘀影视","name":"哔嘀影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/rrzt188/box/raw/master/sub/jar/meowxb/哔嘀影视.json"},
