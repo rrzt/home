@@ -1,7 +1,16 @@
 //https://raw-gh.gcdn.mirr.one/rrzt/home/main/mao210jia.json
 //https://cdn.jsdelivr.net/gh/rrzt/home@main/mao210jia.json
 ###
+
 {
+     //"spider": " https://raw-gh.gcdn.mirr.one/rrzt/home/main/custom_spider0626.jar",
+    //"spider": " https://raw-gh.gcdn.mirr.one/rrzt/home/main/custom_spider20.jar",
+     //"spider": " https://raw-gh.gcdn.mirr.one/rrzt/home/main/custom_spider.jar",
+    // "spider": " https://raw-gh.gcdn.mirr.one/rrzt/home/main/custom_spider2207.jar",
+ //  "spider": " https://raw-gh.gcdn.mirr.one/rrzt/home/main/spider2207.jar",
+    "spider": "https://gitee.com/rrzt188/home/raw/master/spider2207.jar",
+
+  //"spider":"https://raw-gh.gcdn.mirr.one/liu673cn/box/main/jar/spider2207.jar;md5;727C472F6F06E2958FF50FBD0C2AAE21",
   "sites": [ 
 //{"key": "csp_Kmys"       ,"name":"🐞酷猫影视","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Kuaikan"       ,"name":"🐞快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -3451,14 +3460,7 @@
     "wasu",
     "bilibili"
   ],
- //"spider": " https://raw-gh.gcdn.mirr.one/rrzt/home/main/custom_spider0626.jar",
-    //"spider": " https://raw-gh.gcdn.mirr.one/rrzt/home/main/custom_spider20.jar",
-     //"spider": " https://raw-gh.gcdn.mirr.one/rrzt/home/main/custom_spider.jar",
-    // "spider": " https://raw-gh.gcdn.mirr.one/rrzt/home/main/custom_spider2207.jar",
- //  "spider": " https://raw-gh.gcdn.mirr.one/rrzt/home/main/spider2207.jar",
-    "spider": "https://gitee.com/rrzt188/home/raw/master/spider2207.jar",
 
-  //"spider":"https://raw-gh.gcdn.mirr.one/liu673cn/box/main/jar/spider2207.jar;md5;727C472F6F06E2958FF50FBD0C2AAE21",
             
 
   "ijk": [
