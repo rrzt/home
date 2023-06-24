@@ -209,15 +209,12 @@
 //
 //
 {"key":"csp_biubiu_麻豆传媒","name":"🐛麻豆传媒","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/rrzt/home-gitea-fuli18/main/18/麻豆传媒.json"},
-//{"key":"csp_biubiu_黄仓库","name":"🐛黄仓库","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/rrzt/home-gitea-fuli18/main/18/黄仓库.json"},
 //{"key":"csp_biubiu_裸露性交AV","name":"🐛裸露性交AV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/rrzt/home-gitea-fuli18/main/18/裸露性交AV.json"},
 //{"key":"drpy_js_裸露性交AV","name":"裸露性交AV[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/lib/drpy2.min.js","ext":"https://raw.iqiq.io/rrzt/home-gitea-fuli18/main/18/裸露性交AV.js"},
 //{"key":"csp_xbb_2022xxj","name":"💪香蕉综合网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/rrzt/home/master/MEOWXB/18/2022xxj"},
 //{"key":"csp_xbb_xjxj88","name":"🍌香蕉视频","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/rrzt/home/master/MEOWXB/18/xjxj88"},
 {"key":"csp_xbb_Gaoaa","name":"🍐大秀福利","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/rrzt/home/master/MEOWXB/18/gaoaa"},
-//{"key":"csp_xbb_hscangku","name":"🧀黄仓库","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/rrzt/home/master/MEOWXB/18/hscangku"},
 {      "key": "csp_xbb_linyun",      "name": "凌云",      "type": 3,      "api": "csp_XBiubiu",      "searchable": 1, "quickSearch": 1,   "filterable": 1,   "ext": "https://raw.iqiq.io/rrzt/home-gitea-fuli18/main/linyunyingshi.json"   },
-  // {   "key": "csp_xbb_hck",  "name": "黄仓库18(XP)",  "type": 3, "api": "csp_XBiubiu",  "searchable": 1,  "quickSearch": 1, "filterable": 1, "ext": "https://raw.iqiq.io/rrzt/home/master/MEOWXB/18/黄仓库.txt"  },
     { "key": "csp_xbb_md", "name": "麻豆18(XP)", "type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/rrzt/home-gitea-fuli18/main/国产传媒.json" },
   //  { "key": "csp_xbb_sjsp","name": "香蕉视频18(XP)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/rrzt/home/master/MEOWXB/18/香蕉视频.txt"},
     //{ "key": "csp_xbb_jytv", "name": "聚优tv18(XP)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, "filterable": 1, "ext": "https://raw.iqiq.io/rrzt/home/master/MEOWXB/18/聚优tv.txt"},
