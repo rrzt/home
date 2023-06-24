@@ -7,6 +7,7 @@
 
 {"urls": 
 [
+{"url":"www1","name": "www1"},
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/rrzt/home/master/fuli18.json","name": "fuli18-own"},
   {"url":"https://raw.kgithub.com/rrzt/tvboxzy/main/SEX.json","name": "zhanghong1983"},
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/yyfxz/fl/main/xa2.json","name": "分享者18+"},
