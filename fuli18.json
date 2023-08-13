@@ -6,7 +6,7 @@
 {
    
 //  "spider":"https://raw.iqiq.io/rrzt/home-gitea-fuli18/main/jar/1025.jar",
-	"spider":"https://raw.iqiq.io/rrzt/home-gitea-fuli18/main/jar/custom_spider18.jar;md5;d81491287f85debfc69e10a2ec775b4d",
+	"spider":"https://raw.kgithub.com/rrzt/home-gitea-fuli18/main/jar/custom_spider18.jar;md5;d81491287f85debfc69e10a2ec775b4d",
      "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=https://raw.iqiq.io/rrzt/home-gitea-fuli18/main/zhibo/TV18.TXT"]}]}],
 
 "rules":[{"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
