@@ -4,20 +4,7 @@
  
 "wallpaper": "https://gitee.com/rrzt188/home/raw/master/pic/wallpaper.jpg",
 
-"lives":[
-{
-      "name": "live",
-      "url": "https://github.moeyy.xyz/https://github.com/rrzt/home/blob/master/zhibo/listyouxuan.txt",
-      "type": 0,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-    },    
-    {"group":"redirect",
-    "channels":[{
-    "name":"redirect",
-    "urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIubW9leXkueHl6L2h0dHBzOi8vZ2l0aHViLmNvbS9ycnp0L2hvbWUvYmxvYi9tYXN0ZXIvemhpYm8vbGlzdHl4LnR4dA=="]}]
-    }],
+
     
   "sites": [ 
 //爬虫
