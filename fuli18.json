@@ -111,7 +111,21 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉废柴网.json"
-        }, {
+        }, 
+   {
+      "key": "csp_香蕉废柴网",
+      "name": "香蕉废柴网",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+    "jar":  "https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/xBPQ.jar"
+	 "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/香蕉废柴网.json"
+    }
+   
+  
+   {
             "key": "csp_xBPQ_香蕉直播",
             "name": "🏆香蕉直播",
             "type": 3,
