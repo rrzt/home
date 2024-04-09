@@ -89,6 +89,7 @@
         },
 
 {"key":"玩偶","name":"玩偶","type":3,"api":"csp_Doll",  "jar":"https://gitee.com/rrzt188/home/raw/master/jar/pg240409.jar;md5;20951b7b8b4979ec1214839a2b2e36b8","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.309}},
+{"key":"色播","name":"色播🔞","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/js/sb.js", "jar":"https://gitee.com/rrzt188/home/raw/master/jar/pg240409.jar;md5;20951b7b8b4979ec1214839a2b2e36b8","searchable":1,"changeable":0,"style":{"type":"list"}},
 
 {"key":"*香奶儿资源","name":"🔞香奶儿","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
  {"key":"kxgav","name":"白嫖资源(已修复)","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
