@@ -31,7 +31,7 @@ CCTV-1 综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV
 CCTV-1 综合,http://1.70.32.171:8082/udp/239.1.1.7:8007
 CCTV-1 综合,http://1.70.32.171:8083/udp/239.1.1.7:8007
 CCTV-1 综合,http://111.167.65.49:4022/udp/225.1.1.120:5002
-CCTV-1 综合,http://113.110.72.98:8090/hls/114/index.m3u8
+
 CCTV-1 综合,http://113.15.186.54:8181/tsfile/live/0001_1.m3u8
 CCTV-1 综合,http://116.11.156.105:1188/tsfile/live/0001_1.m3u8
 CCTV-1 综合,http://116.11.156.112:1188/tsfile/live/0001_1.m3u8
@@ -76,7 +76,7 @@ CCTV-2 财经,http://1.70.32.171:8082/udp/239.1.1.8:8008
 CCTV-2 财经,http://1.70.32.171:8083/udp/239.1.1.8:8008
 CCTV-2 财经,http://111.11.98.205:9900/hls/2/index.m3u8
 CCTV-2 财经,http://111.167.65.49:4022/udp/225.1.1.133:5002
-CCTV-2 财经,http://113.110.72.98:8090/hls/115/index.m3u8
+CCTV-2 财经,http://113.110.72.98:8090/hls/114/index.m3u8
 CCTV-2 财经,http://113.15.186.54:8181/tsfile/live/0002_1.m3u8
 CCTV-2 财经,http://116.11.156.105:1188/tsfile/live/0002_1.m3u8
 CCTV-2 财经,http://116.11.156.112:1188/tsfile/live/0002_1.m3u8
@@ -101,6 +101,7 @@ CCTV-2 财经,http://59.172.87.197:8686/rtp/239.69.1.102:10250
 CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV-3 综艺,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
 CCTV-3 综艺,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV-3 综艺,http://113.110.72.98:8090/hls/115/index.m3u8
 CCTV-3 综艺,http://1.195.111.251:11190/tsfile/live/0003_1.m3u8
 CCTV-3 综艺,http://1.70.32.171:8082/udp/239.1.1.9:8009
 CCTV-3 综艺,http://1.70.32.171:8083/udp/239.1.1.9:8009
