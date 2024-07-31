@@ -6,11 +6,10 @@
 {
    
 //  "spider":"https://raw.iqiq.io/rrzt/home-gitea-fuli18/main/jar/1025.jar",
- "spider":"https://gitee.com/rrzt188/home/raw/master/jar/230329.jar",
+"spider":"https://gitee.com/rrzt188/home/raw/master/jar/fty240331.jar",
 
 
-    // "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=https://raw.iqiq.io/rrzt/home-gitea-fuli18/main/zhibo/TV18.TXT"]}]}],
-"lives":[{"name":"live","type":0,"url":"https://github.moeyy.xyz/https://github.com/rrzt/home/blob/master/zhibo/listx.txt","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+"lives":[{"name":"live","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/rrzt/home/master/zhibo/listx.txt","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
 
 "rules":[{"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
@@ -28,6 +27,13 @@
 "filterable": 1,
 "ext": "{\"分类url\":\"https://avhh.vip/cq/{cateId}-{catePg}.html\", \"分类\":\"请勿外传$2k-yazhou#按主页切换源$2k-zipaitoupai#无分类切换VPN$2k-chaoqingchuanmei#或者其他网络$2k-3Ddongman#资源网络共享$2k-oumei#有倒卖贩卖纯属欺诈$2k-luanlunrenqi#请勿相信！$2k-siwazhifu#绝对禁止未成年人观看$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", \"链接前缀\": \"https://avhh.vip/cq/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }","jar":"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExsQzF4dE9XemY5dFFjYVIt.jar"
 },
+	   {"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"https://gitee.com/rrzt188/home/raw/master/jar/alist.min.js","ext":"https://gitee.com/rrzt188/home/raw/master/jar/alist.json"},
+    {"key": "本地","name": "本地存储","type": 3,"api": "csp_Local","searchable": 0,"changeable": 0},
+    {"key": "AList","name": "AList","type": 3,"api": "csp_AList","searchable": 1,"changeable": 0,"ext": "https://gitee.com/rrzt188/home/raw/master/jar/alist1.json"},
+    {"key": "WebDAV","name": "WebDAV","type": 3,"api": "csp_WebDAV","searchable": 1,"changeable": 0,"ext": "https://gitee.com/rrzt188/home/raw/master/jar/webdav.json"},
+        {"key": "push_agent","name": "🛴┃手机┃推送","type": 3,"api": "csp_Push","searchable": 0,"quickSearch": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd" },
+
+
        {
             "key": "🔞呱哥-Sm",
             "name": "🔞呱哥-Sm",
