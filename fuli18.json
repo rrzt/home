@@ -122,10 +122,52 @@
 			"order_num": 0,
 			"ext": "./drpy_js/老司视频[密].js"
 		},
-
-
-       
 {
+      "key": "av影视",
+      "name": "🔞av影视|XBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+   "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+      "style": {
+        "type": "rect",
+        "ratio": 1.5
+    },
+      "ext": {
+       "图片": "data-src=\"&&\"",
+               "直接播放": "1",
+      "分类url":"https://wyaslcwgroup.cfd/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+        "分类": "国产视频$1#主播$2#黑料$3#中文$6#国产传媒$7#制服$12#抖音$15#三级$17#AV解说$18#日本有码$8#日本无码$9#强奸乱轮$11#动漫$13#明星换脸$14#女优明星$16" 
+      }
+       },
+{"key":"三千免费AV","name":"🔞三千免费AV","type":3,"api":"csp_XBPQ","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"1:www.sqmfav.cc,2:www.sqmfav.xyz,3:www.sqmfav.top","主页url":"https://ru4.sqmfav-ebvq.buzz/duoziyuan/laoya","二次截取":"<ul class=\"thumbnail-group&&</ul","数组":"<li&&</li","图片":"data-original=\"&&\"","标题":"<h5><a href=*>&&</a","副标题":"<p class=*>&&-","简介":"description\" content=\"&&【","链接":"href=\"&&\"[替换:detail>>play#.html>>/sid/1/nid/1.html]","跳转播放链接":"urlDecode(var player_*url\":\"&&\")","搜索模式":"1","搜索url":"https://ru4.sqmfav-ebvq.buzz/duoziyuan/laoya/index.php/vod/search/page/{pg}/wd/{wd}.html","分类数组":"<a&&/a","分类标题":">&&<[不包含:更多]","分类ID":"/duoziyuan/laoya/index.php/vod/type/id/&&.html","分类url":"https://ru4.sqmfav-ebvq.buzz/duoziyuan/laoya/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},
+
+{"key":"51黑料福利社","name":"51黑料福利社","type":3,"api":"csp_XBPQ","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"https://51heiliaofulishe.com","主页url":"https://xn--sew--d22d-or3qf22vs68d.koxueyuan7pk789.xyz/ko","数组":"class=\"item-box\">&&</a","图片":"src=\"&&\"","副标题":"<!-- <small>&&</small> -->","简介":"description\" content=\"&&|全站免费","链接":"https://xn--sew--d22d-or3qf22vs68d.koxueyuan7pk789.xyz/v/+href=\"/voddetail/&&/\"+/","搜索模式":"1","搜索url":"https://xn--sew--d22d-or3qf22vs68d.koxueyuan7pk789.xyz/s/page/{pg}/wd/{wd}/","分类数组":"<a&&/a","分类标题":">&&<","分类ID":"/t/&&/","分类url":"https://xn--sew--d22d-or3qf22vs68d.koxueyuan7pk789.xyz/t/{cateId}-{catePg}/;;z"}},   
+{"key":"sesehuzy.com","name":"💕色虎(直连)","type":1,"api":"https://apisesehuzy.com/api.php/providedao/vod/?ac=list","searchable":1,"filterable":1,"jar": "https://8415.kstore.space/Tvbox/jar/papapg.jar"},
+{
+    "key": "NiceAv",
+    "name": "🔥NiceAv",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+    "style": {
+        "type": "rect",
+        "ratio": 1.5
+    },
+    "ext": {
+        "主页url": "https://www.nice106.xyz/",
+       // "搜索url": "https://www.nice106.xyz/index.php/vod/search/wd={wd}",
+        //"数组": "col-6 col-sm-4 col-lg-3 mb-3\"> <a class=\"tag text-light\" href=\"&&",
+        "图片": "src=\"&&\"",
+        //"标题": "title=\"&&\"",
+        //"副标题": "</span>&&</div>",
+       // "链接": "href=\"&&\"",
+        "简介": "⚠️慢点撸，皮要掉了！！！",
+        "分类url": "https://www.nice106.xyz/index.php/vod/type/id/{cateId}.html",
+        "分类": "中文字幕$1#日本有码$2#日本无码$3#AV解说$4#cosplay$5#黑丝诱惑$6#SWAG$7#自拍偷拍$8#激情动漫$9#网红主播$10#探花系列$11#三级伦理$12#VR视角$13#国产传媒$14#素人搭讪$15#门事件$16"
+    }
+},	
+	{"key":"今天gan少女","name":"🔞今天gan少女","type":3,"api":"csp_XBPQ", "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"www.gblw1.buzz","主页url":"https://www.gblw1.buzz","首页":"快乐五区","数组":"class=\"lazy&&</div></div>","图片":"data-original=\"&&\"","标题":"html\">&&</a","简介":"description\" content=\"&&高清","链接":"href=\"&&\"","跳转播放链接":"urlDecode(var player_*url\":\"&&\")","搜索模式":"1","搜索url":"https://www.gblw1.buzz/index.php/vod/search/page/{pg}/wd/{wd}.html","分类数组":"<a&&/a","分类标题":">&&<","分类ID":"/index.php/vod/type/id/&&.html","分类url":"https://www.gblw1.buzz/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},
+	  {
       "key":"drpy_js_色色",
       "name":"🔞涩涩直播",
       "type":3,
@@ -133,6 +175,93 @@
       "api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/666tv/69/733eedaee829f727cb9d49a375fa7810b2553240/js/drpy2.min.js#L19",
       "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/666tv/69/733eedaee829f727cb9d49a375fa7810b2553240/js/ss直播.js#L19"
     }, 
+{
+            "key": "php_madou",
+            "name": "🔞麻豆xx",
+            "type": 4,
+            "api": "https://t4.doube.eu.org/madou.php",
+            "searchable": 1,
+            "quickSearch":0,
+            "filterable":0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+              }
+        },
+{"key":"天堂岛",
+        "name":"🔞天堂岛",
+        "type":3,
+        "api":"csp_XBPQ",
+         "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "ext":{
+        "主页url":"https://www.ttdao666.buzz",
+        "数组":"<div class=\"item&&</a",
+        "图片":"data-original=\"&&\"",
+        "标题":"title=\"&&\"",
+        "副标题":"<em>&&</em",
+        "简介":"description\" content=\"&&剧情",
+        "链接":"https://www.ttdao666.buzz/vod/play/id/+href=\"/vod/detail/id/&&/\"+/sid/1/nid/1/",
+        "跳转播放链接":"var player_*\"url\":\"&&\"",
+        "搜索模式":"1",
+        "搜索url":"https://www.ttdao666.buzz/vod/search/page/{pg}/wd/{wd}/",
+        "分类数组":"<a&&/a",
+        "分类标题":">&&<",
+        "分类ID":"/vod/type/id/&&/",
+        "分类url":"https://www.ttdao666.buzz/vod/type/id/{cateId}/page/{catePg}/;;z"}},
+{"key":"高清xxxx黑料",
+         "name":"🍁高清xxxx黑料",
+         "type":3,
+         "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+         "api":"csp_XBPQ",
+         "searchable":1,
+         "quickSearch":1,
+         "filterable":1,
+         "ext":{"发布地址":"https://xxxxxxav3.com",
+         "主页url":"https://xxxxxxav3.com/xxxx",
+         "数组":"class=\"item-box\">&&</a","图片":"src=\"&&\"","标题":"title=\"&&\"","副标题":"<small>&&</small>","简介":"description\" content=\"&&|全站",
+         "链接":"href=\"&&\"[替换:voddetail>>v]","跳转播放链接":"urlDecode(var player_*url\":\"&&\")",
+         "搜索模式":"1","搜索url":"https://xxxxxxav3.com/s/page/{pg}/wd/{wd}/","分类数组":"<a&&/a>","分类标题":">&&<","分类ID":"/t/&&/","分类url":"https://xxxxxxav3.com/t/{cateId}-{catePg}/;;z"}},
+	 {
+      "key": "csp_XBPQ_花心小妞",
+      "name": "🍁花小🔞",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/jwlangzi/tvboxziyong/raw/master/gsly/jar/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "发布地址": "hxxn3a.top",
+        "请求头": "手机",
+        "站名": "花小",
+        "主页url": "https://hxxn3a.top/gbook/?shouye",
+        "直接播放": "1",
+        "数组": "stui-vodlist__box&&</li>",
+        "标题": "title=\"&&\"",
+        "图片": "data-original=\"&&\"",
+        "副标题": "<p>&&</p>",
+        "链接": "https://hxxn3a.top/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html",
+        "线路数组": "layui-btn-normal play-btn&&</a>",
+        "播放数组": "group-box bg-card&&</div>",
+        "免嗅": "1",
+        "搜索url": "https://hxxn3a.top/vodsearch/{wd}----------{pg}---.html",
+        "分类url": "https://hxxn3a.top/vodshow/{cateId}--------{catePg}---.html",
+        "分类数组": "<li&&</li>",
+        "分类标题": ">&&</a>",
+        "分类ID": "/vodtype/&&.html\""
+      }
+    },
+{
+            "key": "花都影视",
+            "name": "花都影视(切片)",
+            "type": 0,"style":{ "type":"rect", "ratio":1.485 },
+            "api": "https://hdys2.com/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "quickSearch": 1
+        }, 
 	  {
             "key": "🔞呱哥-Sm",
             "name": "🔞呱哥-Sm",
