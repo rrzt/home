@@ -225,14 +225,12 @@
 				"ratio": 1.485
             }
         },
- {
-      "key": "18AV",
+ {     "key": "18AV",
       "name": "18AV",
       "type": 3,
       "api": "csp_Eighteen",
      "jar": "https://ghp.ci/https://raw.githubusercontent.com/rrzt/home/master/jar/pg18.jar",
-      "searchable": 1,
-      
+      "searchable": 1,      
       "timeout":60,
       "style": {
         "type": "rect",
