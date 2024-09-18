@@ -171,6 +171,21 @@
                 "ratio": 1.33
               }
         },
+{
+            "key": "XVideos",
+            "name": "🔥XVideos🔥",
+            "type": 3,
+            "api": "csp_Xv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://api.xv-api.com/api",
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/rrzt/home/master/jar/Xv18.jar",
+            "style": {
+               "type": "rect",
+				"ratio": 1.485
+            }
+        },
 
 {
     "key": "NiceAv",
