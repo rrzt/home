@@ -171,6 +171,45 @@
                 "ratio": 1.33
               }
         },
+{"key":"A片风云",
+"name":"A片风云",
+"type":3,
+ "jar": "https://ghp.ci/https://raw.githubusercontent.com/rrzt/home/master/jar/XBPQ18.jar",
+"api":"csp_XBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":{"发布地址":"ap.apfy.cc/ap/",
+"主页url":"https://ap.apfy.buzz/ap/",
+"数组":"stui-vodlist__thumb lazyload&&</a",
+"图片":"data-original=\"&&\"",
+"标题":"title=\"&&\"",
+"副标题":"text-right\">&&</span>",
+"简介":"description\" content=\"&&在线",
+"链接":"href=\"&&\"",
+"跳转播放链接":"var player_*\"url\":\"&&\"",
+"搜索模式":"1",
+"搜索url":"https://ap.apfy.buzz/ap/index.php/vod/search/page/{pg}/wd/{wd}.html",
+"分类二次截取":"<!-- 分类列表 -->&&<!-- end 分类列表 -->","分类数组":"<a&&/a>",
+"分类标题":">&&</a[不包含:更多]","分类ID":"/ap/index.php/vod/*/id/&&.html","页面代理": "127.0.0.1:10072",
+"分类url":"https://ap.apfy.buzz/ap/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},
+{"key":"PWXXX视频",
+"name":"PWXXX视频",
+"type":3,
+ "jar": "https://ghp.ci/https://raw.githubusercontent.com/rrzt/home/master/jar/XBPQ18.jar",
+"api":"csp_XBPQ","searchable":1,
+"quickSearch":1,"filterable":1,
+"ext":{"发布地址":"https://pwxxx.com/",
+"主页url":"https://pwxxx6.fun/pwxxx",
+"数组":"stui-vodlist__thumb lazyload&&</a",
+"图片":"data-original=\"&&\"",
+"标题":"title=\"&&\"[不包含:14岁]",
+"副标题":"text-right\">&&</span>",
+"简介":"description\" content=\"&&在线",
+"链接":"href=\"&&\"","跳转播放链接":"var player_*\"url\":\"&&\"","搜索模式":"1",
+"搜索url":"https://pwxxx6.fun/pwxxx/vod/search/page/{pg}/wd/{wd}.html","页面代理": "127.0.0.1:10072",
+"分类数组":"<a&&/a","分类标题":">&&<","分类ID":"/pwxxx/vod/type/id/&&.html",
+"分类url":"https://pwxxx6.fun/pwxxx/vod/type/id/{cateId}/page/{catePg}.html;;z"}},
 {
             "key": "XVideos",
             "name": "🔥XVideos🔥",
@@ -184,6 +223,31 @@
             "style": {
                "type": "rect",
 				"ratio": 1.485
+            }
+        },
+{
+      "key": "18av_open",
+      "name": "18av貓",
+      "type": 3,
+      "api": "https://ghp.ci/https://raw.githubusercontent.com/rrzt/home/master/js/18AV.js",
+	   "ext": "null$$$127.0.0.1:10072",
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      }
+    },
+{ "key": "youshou",
+            "name": "右手影院",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+         "jar": "https://ghp.ci/https://raw.githubusercontent.com/rrzt/home/master/jar/XBPQ18.jar",
+            "api": "csp_XBPQ",
+            "ext":{"页面代理":"127.0.0.1:10072",
+            "分类":"日韩爽片$1#国产精选$2#传媒合集$5#欧美激情$3#网爆吃瓜$26",
+             "分类url": "https://ysys438.xyz/vodshow/{cateId}--{year}------{catePg}---{by}.html"
             }
         },
 
