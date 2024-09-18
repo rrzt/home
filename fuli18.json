@@ -225,6 +225,19 @@
 				"ratio": 1.485
             }
         },
+ {
+      "key": "18AV",
+      "name": "18AV",
+      "type": 3,
+      "api": "csp_Eighteen",
+     "jar": "https://ghp.ci/https://raw.githubusercontent.com/rrzt/home/master/jar/pg18.jar",
+      "searchable": 1,
+      
+      "timeout":60,
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      },
 {
       "key": "18av_open",
       "name": "18av貓",
@@ -1430,7 +1443,6 @@
 "api":"https://raw.iqiq.io/rrzt/home-gitea-fuli18/main/18/js/lib/drpy.min.js",
 "ext":"https://raw.iqiq.io/rrzt/home-gitea-fuli18/main/18/js/js/banan.js"
 },
-//{"key":"drpy_js_18av","name":"18av[DRPY18]","type":3,"api":"https://raw.iqiq.io/rrzt/home-gitea-fuli18/main/18/js/lib/drpy.min.js","ext":"https://raw.iqiq.io/rrzt/home-gitea-fuli18/main/18/js/js/18av.js"},
 {"key":"csp_xBPQ_掏爱撸","name":"掏爱撸","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/rrzt/home-gitea-fuli18/main/MEOWXB/18/掏爱撸.json"},
 {"key":"csp_XYQHiker_18AV","name":"18AV(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/rrzt/home-gitea-fuli18/main/MEOWXB/18/18av2.json"},
  {"key":"dr_Missav",   "name": "Missav(道长)",   "type": 1,  "api":"https://raw.iqiq.io/rrzt/home-gitea-fuli18/main/18/js/lib/drpy.min.js",  "ext":"https://raw.iqiq.io/rrzt/home-gitea-fuli18/main/18/js/js/18av.js","searchable": 2,   "quickSearch": 1,   "filterable": 1 },
