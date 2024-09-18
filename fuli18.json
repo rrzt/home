@@ -136,6 +136,27 @@
         "filterable": 0,
         "style": {"type": "rect","ratio": 1.33}
         },
+{
+      "key": "3影视1",
+      "name": "🔥YOYO影视🔥",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+     
+      "filterable": 1,      
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/rrzt/home/master/jar/XBPQ18.jar",
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/rrzt/home/master/js/Yo视频.json"
+    },
+{"key":"WO❤AV",
+	"name":"WO❤AV",
+	"jar":"https://ghp.ci/https://raw.githubusercontent.com/rrzt/home/master/jar/XBPQ18.jar",
+	"type":3,
+	"api":"csp_XBPQ",
+	"ext":{"副标题":"播放+次数:&&</p>",
+	"分类url":"https://vip.woaav.online:13097/vodtype/{cateId}-{catePg}.html",
+	"分类数组":"<a&&/a>","分类标题":">&&<","分类ID":"vodtype/&&.html"}},
+
 
 {
     "key": "NiceAv",
