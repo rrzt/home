@@ -176,10 +176,54 @@
       "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/666tv/69/733eedaee829f727cb9d49a375fa7810b2553240/js/ss直播.js#L19"
     }, 
 {
+        "key": "py_aidouchuanmei",
+        "name": "🤪 爱豆传媒(T4_py)",
+        "type": 4,
+        "api": "https://py.doube.eu.org/api?site=aidouchuanmei",
+        "searchable": 1,
+        "quickSearch": 0,
+        "filterable": 0,
+        "style": {"type": "rect","ratio": 1.33}
+        },
+ {
+      "key": "18AV",
+      "name": "18AV",
+      "type": 3,
+      "api": "csp_Eighteen",
+     "jar": "https://ghp.ci/https://raw.githubusercontent.com/rrzt/home/master/jar/pg18.jar",
+      "searchable": 1,
+      
+      "timeout":60,
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      },
+{
+      "key": "3影视1",
+      "name": "🔥YOYO影视🔥",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+     
+      "filterable": 1,      
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/rrzt/home/master/jar/XBPQ18.jar",
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/rrzt/home/master/js/Yo视频.json"
+    },
+{"key":"WO❤AV",
+	"name":"WO❤AV",
+	"jar":"https://ghp.ci/https://raw.githubusercontent.com/rrzt/home/master/jar/XBPQ18.jar",
+	"type":3,
+	"api":"csp_XBPQ",
+	"ext":{"副标题":"播放+次数:&&</p>",
+	"分类url":"https://vip.woaav.online:13097/vodtype/{cateId}-{catePg}.html",
+	"分类数组":"<a&&/a>","分类标题":">&&<","分类ID":"vodtype/&&.html"}},
+{
             "key": "php_madou",
             "name": "🔞麻豆xx",
             "type": 4,
             "api": "https://t4.doube.eu.org/madou.php",
+	      "jar": "https://ghp.ci/https://raw.githubusercontent.com/rrzt/home/master/jar/pg18.jar",
             "searchable": 1,
             "quickSearch":0,
             "filterable":0,
@@ -187,6 +231,21 @@
                 "type": "rect",
                 "ratio": 1.33
               }
+        },
+{
+            "key": "XVideos",
+            "name": "🔥XVideos🔥",
+            "type": 3,
+            "api": "csp_Xv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://api.xv-api.com/api",
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/rrzt/home/master/jar/Xv18.jar",
+            "style": {
+               "type": "rect",
+				"ratio": 1.485
+            }
         },
 {"key":"天堂岛",
         "name":"🔞天堂岛",
