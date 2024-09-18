@@ -59,6 +59,17 @@
       "quickSearch": 1,
       "filterable": 0
     },
+ {
+        "key": "csp_Live2Vod_2",
+        "name": "┃网络🍓电视┃",
+        "type": 3,
+        "api": "https://ghp.ci/https://raw.githubusercontent.com/aa123jg/tvbox-FL/main/wyykFL/lib/直播vod.js",
+        "jar": "https://ghp.ci/https://raw.githubusercontent.com/aa123jg/tvbox-FL/main/wyykFL/jars/candymuj.jar",
+        "searchable": 0,
+        "quickSearch": 0,
+        "filterable": 0,
+        "ext":"https://ghp.ci/https://raw.githubusercontent.com/aa123jg/tvbox-FL/main/wyykFL/lib/直播.json"
+    },	
 	   {
       "key": "XMVideo",
       "name": "🔞 熊猫视频 | 珍惜",
@@ -104,6 +115,8 @@
 			"order_num": 0,
 			"ext": "./drpy_js/老司视频[密].js"
 		},
+
+{"key":"csp_XBPQ_没事影视","name":"🧚‍♀️没事影视┃XBPQ","type":3,"api":"csp_XBPQ",    "jar": "https://ghp.ci/https://raw.githubusercontent.com/aa123jg/tvbox-FL/main/wyykFL/jars/XBPQ.jar",     "searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"主页url":"https://www.yu992.com/","分类url":"https://www.yu992.com/lys/{cateId}.html","分类":"电影$dianying#剧集$juji#综艺$zongyi#动漫$dongman#短剧$duanju"}, "倒序":"1"},
 {
       "key": "av影视",
       "name": "🔞av影视|XBPQ",
