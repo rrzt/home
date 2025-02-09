@@ -70,6 +70,32 @@
         "filterable": 0,
         "ext":"https://ghp.ci/https://raw.githubusercontent.com/aa123jg/tvbox-FL/main/wyykFL/lib/直播.json"
     },	
+{"key":"drpyS_黑料不打烊[密]","name":"黑料不打烊[密](DS)","type":4,"api":"https://drpy.yanshanxiyu.top/api/黑料不打烊[密]",
+	"jar": "https://xn--zllz-rp5imh.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ff701d2842bedbe68068c623dee59819","searchable":1,"filterable":0,"quickSearch":0,"ext":""},
+ { "key": "Kpgx，，，dyE",
+
+      "name": "🔞导航|9m9m.top",
+
+      "type": 0,
+
+      "api": "https://www.pgxdy.com/api/xml.php",
+
+      "searchable": 1,
+
+      "quickSearch": 1,
+
+      "filterable": 1 },
+	  {
+
+      "key": "影视",
+
+      "name": "影视18",
+
+      "type": 1,
+
+      "api": "https://155api.com/api.php/provide/vod/"
+
+    },
 	   {
       "key": "XMVideo",
       "name": "🔞 熊猫视频 | 珍惜",
