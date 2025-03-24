@@ -120,7 +120,16 @@
                 "分类链接": "https://vip.woaav.online:13097/vodshow/{cateId}--------{catePg}---.html"
             }
         },
-  
+  {
+      "key":"含羞草",
+      "name":"🔞含羞草",
+      "type":3,
+      "api":"https://github.moeyy.xyz/https://github.com/aa123jg/tvbox-FL/blob/main/wyykFL/drpy_libs/drpy2.min.js",
+      "searchable":0,
+      "quickSearch":0,
+      "filterable":0,
+      "ext":"https://github.moeyy.xyz/https://github.com/aa123jg/tvbox-FL/blob/main/wyykFL//js/含羞草.js"
+    },
      {"key":"*淫水机资源","name":"🔞🈲qq","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
    
         { "key":"KpgxdyE","name":"🔞🈲黄AV资源(已修复)", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },   
@@ -146,6 +155,14 @@
             "filterable": 1,
             "ext": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/h/比卡比卡.json"
         },    
+		 {
+        "key": "*AIvin",
+        "name": "🔞AIvin",
+        "type": 0,
+	"jar": "https://github.moeyy.xyz/https://github.com/aa123jg/tvbox-FL/blob/main/wyykFL//jar/pg.jar",
+        "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
+        }, 	
+
         	  
            {
             "key": "csp_XBPQ_yyxl",
