@@ -120,6 +120,74 @@
                 "分类链接": "https://vip.woaav.online:13097/vodshow/{cateId}--------{catePg}---.html"
             }
         },
+{"key":"pgxdy","name":"🧿Pgx电影","type":0,"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},  
+{"key":"pwd_袜不会吧子","name":"🧿蜜蜂","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":0},
+
+
+ {
+            "key": "松视开通1",
+            "name": "松视1",
+            "type": 0,
+            "api": "https://www.xrbsp.com/api/xml.php",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "松视开通2",
+            "name": "松视2",
+            "type": 0,
+            "api": "https://www.gdlsp.com/api/xml.php",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "松视开通3",
+            "name": "松视3",
+            "type": 1,
+            "api": "https://api.sexnguon.com/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+{
+      "key": "csp_XYQHiker_300分类",
+      "name": "♥️300分类♥️",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/guot55/yg/main/lib/Aoki.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/guot55/yg/main/lib/300分类.json"
+    },
+    {
+      "key": "Cg51",
+      "name": "\uD83D\uDD1E 51吃瓜 | 图密√",
+      "type": 3,
+      "api": "csp_Cg51","jar":"https://www.now61.cn/f/o50JSj/%E7%A6%8F%E5%88%A9.jar",
+      "searchable": 1,
+      "filterable": 1
+    },
+{
+      "key": "HiPianZhiBo",
+      "name": "\uD83D\uDD1E 嗨片直播 | 视频",
+      "type": 3,
+      "api": "csp_HiPianZhiBo","jar":"https://www.now61.cn/f/o50JSj/%E7%A6%8F%E5%88%A9.jar",
+      "searchable": 1,
+      "filterable": 1
+    },
+
+
+{
+            "key": "csp_XBPQ_妻",
+            "name": "🏆仕妻舞",
+            "type": 3,
+            "api": "csp_XBPQ",
+  
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://cdn.jsdelivr.net/gh/rrzt/home@master/js/仕妻舞.json"
+        },	
   {
       "key":"含羞草",
       "name":"🔞含羞草",
