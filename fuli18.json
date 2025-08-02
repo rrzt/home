@@ -90,7 +90,235 @@
 			"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
 		},
         
+         {
+            "key": "乐哥特供-猛男日妓",
+            "name": "🏆猛男日妓",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+       
+            "ext": {"请求头": "User-Agent@Mozilla/5.0 (Linux；； Android 12；； PEHM00 Build/SKQ1.210216.001；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36&&Cookie@c6s_RobotVerify=1；； gg_iscookie=1；； _ga=GA1.1.1482105610.1729155635；； c6s_uv=21e3094d1ded55b9be44364d1d0ac6ec；； gg_show_number3644=3",
+           "编码": "UTF-8",
+
+                "主页url": "https://xn--ieu270c.mnrj0z53.xyz",
+                "数组": "默认--<div class=\"gal\">&&</a||搜索--<div class=\"gal\">&&</a",
+                "图片": "original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "</i>&&<",
+                "简介": "description\" content=\"&&\"",
+                "链接": "href=\"&&\"",
+                "跳转播放链接": "\"url\": \"&&\"",
+                "搜索模式": "1",
+                "搜索url": "/index.php?m=vod-search-wd-{wd}-pg-{pg}.htm",
+                "分类url": "/index.php?m=vod-type-id-{cateId}-pg-{catePg}.htm;;z",
+                "分类": "国产视频$495#国产传媒$496#中文字幕$497#日本有码$498#日本无码$499#强奸乱伦$500#制服诱惑$501#激情欧美$502#成人动漫$503#抖阴视频$504#人妖伪娘$505#萝莉少女$1116#SM调教$1117#三级片$1118"
+            }
+        },
+	{"key":"妹妹的妹妹",
+       "name":"🏆妹妹的",
+       "type":3,
+       "api":"csp_XBPQ",
+       "filterable": 0,
+       "style":{"type":"rect","ratio":1.333},
+       "ext":{"分类url":"https://o1u.mmhmm193.xyz/vodtype/{cateId}-{catePg}.html",
+       "播放数组":"<table class=\"playlistlink-4 list-15256 clearfix\"&&/table>",
+       "分类":"精品推荐&网红流出&过膝袜&国产情色&网红主播&传媒出品&亚洲无码&女优系列&女同性恋&亚洲有码&男同性恋&中文字幕&恋腿狂魔&巨乳美乳&人妻熟女&强奸乱伦&欧美精品&萝莉少女&野外露出&网曝门&古装扮演&自拍偷拍&三级伦理&可爱学生&成人动画&风情旗袍&制服丝袜&兽耳系列&口交颜射&瑜伽裤&日本精品&Cosplay&素人自拍&台湾辣妹&韩国御姐&唯美港姐&东南亚AV&欺辱凌辱&剧情介绍&多人多P&91探花&闷骚护士",
+       "分类值":"6&61&71&7&8&73&9&64&74&10&75&11&76&12&20&21&56&22&62&72&63&24&25&65&26&66&30&67&31&68&57&58&37&32&33&34&28&29&35&15&59&69" },
+   
+       "style":{"type":"rect","ratio":1.33
+         }},
+	{
+      "key":"*黄色仓库资源",
+      "name":"🏆黄色仓库",
+      "type":0,
+      "api":"https://www.kxgav.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+       },
+	 {
+      "key":"*黄AV资源",
+      "name":"🏆黄AV",
+      "type":0,
+      "api":"https://www.pgxdy.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+       },
+	{"key":"99福利",
+       "name":"🏆久久福利",
+       "type":3,
+       "api":"csp_XBPQ",
+       "filterable": 1,
+   
+       "ext":{
+       "分类url":"https://xinmei.cfd/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+     
+        "播放数组":"<ul class=\"detail-play-list clearfix tab-pane ff-playurl ff-playurl-tab-1 episode  active fade in\"&&/ul>",
+        "嗅探词": "index.m3u8",
+       "分类":"国产&偷拍&巨乳&中文&欧美&动漫&制服&无码&人妻&另类&学生&伦理&探花&少妇",
+       "分类值":"6&7&8&9&10&11&12&13&14&15&16&17&18&19"}
+       },
+	{
+            "key": "望春视频🔞",
+            "name": "🏆望春视频",
+            "type": 3,
         
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "主页url": "https://kcd.bxc7.one/cn/home/web/",
+                "数组": "lazyload\"&&/a>",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "链接": "href=\"&&\"",
+                "简介": "description\" content=\"&&\"",
+                "分类url": "https://kcd.bxc7.one/vodtype/{cateId}-{catePg}.html;;z",
+                "分类数组": "<a&&/a>",
+                "分类标题": ">&&<",
+                "分类ID": "/vodtype/&&.html"
+            }
+        },
+	 {
+            "key": "风流视频🔞",
+            "name": "🏆风流视频",
+            "type": 3,
+        
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "主页url": "https://djtzph.flsp8.cyou/cn/home/web/",
+                "数组": "container&&</li>",
+                "标题": "title=\"&&\"",
+                "图片": "src=\"&&\"",
+                "副标题": "icoplay\">&&</",
+                "链接": "href=\"&&\"",
+                "简介": "description\" content=\"&&\"",
+                "分类url": "https://djtzph.flsp8.cyou/vodtype/{cateId}-{catePg}.html;;z",
+                "分类数组": "<a&&/a>",
+                "分类标题": ">&&<",
+                "分类ID": "/vodtype/&&.html"
+            }
+        },
+	{
+            "key": "果冻破解版",
+            "name": "🏆果冻破解",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+      
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "主页url": "https://zvz.gdpjb8.work/cn/home/web/",
+                "数组": "well well-sm&&/a>",
+                "标题": "m-t-5\">&&<",
+                "副标题": "duration\">&&</div>",
+                "图片": "img src=\"&&\"",
+                "链接": "href=\"&&\"",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+                "简介": "description\" content=\"&&\"",
+                "搜索url": "https://zvz.gdpjb8.work/cn/home/web/index.php/vod/search/page/{pg}/wd/{wd}.html",
+                "分类url": "https://zvz.gdpjb8.work/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
+                "分类二次截取": "<ul>&&ul>",
+                "分类数组": "<a&&a>",
+                "分类标题": "title=\"&&\"",
+                "分类ID": "/cn/home/web/index.php/vod/type/id/&&.html"
+            }
+        },
+   {
+      "key": "11影網",
+      "name": "🔞112vv┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "https://www.112vv.me/vodtype/26.html",
+        "播放数组":"mod play-list&&</ul",
+        "跳转播放链接": "var player_aaaa*url\":\"&&\"",
+        "链接": "href=\"&&\"",
+       "标题": "alt=\"&&\"",
+       "直接播放":"1",
+       "分类url": "https://www.112vv.me/vodtype/{cateId}-{catePg}.html;;z",
+        "分类": "国产视频$6#欧美高清$24#日韩视频$23#熟女人妻$32#国产传媒$12#亚洲专区$22#中文字幕$25#三级电影$26#高清名优$38#日本素人$37#少女萝莉$31#强奸乱伦$29#制服丝袜$30#童颜巨乳$28"
+      }
+    },
+ {
+            "key": "csp_顶级网曝https://www.djwb3.top",
+            "name": "🏆顶级网曝",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+         
+            "ext": {
+                "请求头": "手机",
+                "站名": "顶级网曝",
+                "主页url": "https://www.xiaoyg1.sbs/",
+                "数组": "<li class=\"content-item\">&&</a>",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "播放数组": "<td>&&</td>",
+                "播放链接": "href=\"&&\"",
+                "跳转播放链接": "urlDecode(var player*url\":\"&&\")",
+                "免嗅": "0",
+                "搜索url": "https://www.xiaoyg1.sbs/index.php/vod/search/page/{pg}/wd/{wd}.html",
+                "嗅探词": ".m3u8#.mp4",
+                "分类url": "https://www.xiaoyg1.sbs/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+                "分类数组": "<li&&</li>",
+                   "分类": "角色$76#黑料$80#中文$78#国$77#极品$98#其他$87#地$79#a$82#麻豆$81#c$83#d$84#e$85#f$86#h$88#j$89#k$90#l$91#m$92#n$93#y$94#u$95#三级$96#o$97#p$99#q$75#w$74#r$73#t$100#s$72#aa$71#ab$70#as$101#ad$102#ac$103#af$104#am$105#an$106#ao$107#av$67#ax$66#ay$65#ai$69#ap$68#aaa$64#aas$63#adf$62#asd$61",
+                "分类标题": "href=\"/index.php/vod/type/id/*.html\" target=\"_blank\">&&</a>",
+                "分类ID": "/index.php/vod/type/id/&&.html"
+            }
+        },
+ {
+            "key": "国产传媒",
+            "name": "🏆国产传媒🪜",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "发布页": "www.7000.me",
+                "主页url": "https://www.vm9.cc",
+                "数组": "lazyload&&</li>",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "链接": "href=\"&&\"",
+                "简介": "description\" content=\"&&\"",
+                "分类url": "https://www.vm9.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
+                "分类二次截取": "tab_head\">&&</ul>",
+                "分类数组": "<a&&/a>",
+                "分类标题": ">&&<",
+                "分类ID": "/index.php/vod/show/id/&&.html"
+            }
+        },
+	  {
+      "key":"*大地资源",
+      "name":"🏆大地资源",
+      "type":0,
+      "api":"https://dadiapi.com/api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+       },
         {"key":"爱妃","name":"🔞爱妃","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
         {"key":"麻豆","name":"🔞麻豆","type":4,"api":"https://json.doube.eu.org/app/index.php?site=dbmadou",   "jar": "https://gitee.com/rrzt188/home/raw/master/jar/pg250212.jar","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
@@ -238,7 +466,8 @@
      {"key":"*淫水机资源","name":"🔞🈲qq","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
    
         { "key":"KpgxdyE","name":"🔞🈲黄AV资源(已修复)", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },   
-        {
+
+		{
 
       "key": "影视",
 
@@ -552,6 +781,8 @@
 
 			"filterable": 1
 		},
+		{"key":"www.caoliuzyw.com","name":"🔞🈲草榴(直连)","type":1,"api":"https://www.caoliuzyw.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
+
 		{
 
 			"key": "影视",
